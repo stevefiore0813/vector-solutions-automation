@@ -111,4 +111,16 @@ def main():
     payload = read_json(Path(args.payload_json))
     people = load_roster(interactive=args.interactive, roster_json_path=args.roster_json)
 
-    with sync
+    with sync_playwright() as pw:
+        browser, ctx = get_browser_and_context(pw, headless=args.headless)
+        page = ctx.new_page()
+        page.goto(args.url, wait_until="domcontentloaded")
+        fill_form_and_save(page, payload)
+        if people:
+            add_personnel_from_assignments(page, people)
+        # Optionally finalize here with "Submit as Complete" when you're ready.
+        print(f"Filled form, clicked 'Save and Add Users', people={len(people)}")
+        return 0
+
+if __name__ == "__main__":
+    raise SystemExit(main())

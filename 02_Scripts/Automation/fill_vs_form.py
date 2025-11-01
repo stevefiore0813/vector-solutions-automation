@@ -4,14 +4,18 @@ from typing import List, Optional
 from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
 
 # ---------- helpers ----------
-def get_browser_and_context(pw, headless: bool):
-    cdp = os.environ.get("BROWSER_CDP_URL", "").strip()
-    if cdp:
-        browser = pw.chromium.connect_over_cdp(cdp)
-        ctx = browser.contexts[0] if browser.contexts else browser.new_context()
-    else:
-        browser = pw.chromium.launch(headless=headless)
-        ctx = browser.new_context()
+def get_browser_and_context(pw, headless: bool, cdp_url: str | None = None,
+                            storage_state: str | None = None):
+    # If CDP not provided, launch Chromium inside WSL
+    if cdp_url:
+        browser = pw.chromium.connect_over_cdp(cdp_url)
+        ctx = browser.contexts[0] if browser.contexts else browser.new_context(
+            storage_state=storage_state if storage_state else None
+        )
+        return browser, ctx
+    # Local launch
+    browser = pw.chromium.launch(headless=headless)
+    ctx = browser.new_context(storage_state=storage_state if storage_state else None)
     return browser, ctx
 
 def read_json(path: Path):
@@ -98,29 +102,55 @@ def fill_form_and_save(page, payload: dict):
     page.get_by_role("button", name="Save and Add Users", exact=False).click()
 
 def main():
-    # Args: url, payload_json, [--interactive] [--roster-json PATH] [--headless]
     import argparse
     ap = argparse.ArgumentParser()
     ap.add_argument("url")
     ap.add_argument("payload_json")
-    ap.add_argument("--interactive", action="store_true", help="Open assignments GUI and wait for its JSON export")
-    ap.add_argument("--roster-json", default=None, help="Use this roster JSON (skips GUI)")
+    ap.add_argument("--interactive", action="store_true")
+    ap.add_argument("--roster-json", default=None)
+    ap.add_argument("--roster-dir", default=None)
+    ap.add_argument("--roster-pattern", default="*.json")
     ap.add_argument("--headless", action="store_true")
+    ap.add_argument("--cdp", default=None, help="Optional: CDP URL. Omit to launch local Chromium.")
+    ap.add_argument("--storage-state", default="05_Dev_Env/Dependencies/storage_state.json",
+                    help="Path to Playwright storage state (cookies/session).")
+    ap.add_argument("--capture-login", action="store_true",
+                    help="Open login once and save storage state, then exit.")
     args = ap.parse_args()
 
     payload = read_json(Path(args.payload_json))
-    people = load_roster(interactive=args.interactive, roster_json_path=args.roster_json)
 
     with sync_playwright() as pw:
-        browser, ctx = get_browser_and_context(pw, headless=args.headless)
+        # If we’re capturing login, open a clean context, let you log in, then save and exit
+        if args.capture_login:
+            browser = pw.chromium.launch(headless=False)
+            ctx = browser.new_context()
+            page = ctx.new_page()
+            page.goto(args.url, wait_until="domcontentloaded")
+            print("[login] Log in manually, then press ENTER here...")
+            input()
+            Path(args.storage_state).parent.mkdir(parents=True, exist_ok=True)
+            ctx.storage_state(path=args.storage_state)
+            print(f"[login] Saved storage state -> {args.storage_state}")
+            return 0
+
+        # Normal mode
+        browser, ctx = get_browser_and_context(
+            pw, headless=args.headless, cdp_url=args.cdp, storage_state=args.storage_state
+        )
         page = ctx.new_page()
         page.goto(args.url, wait_until="domcontentloaded")
+
         fill_form_and_save(page, payload)
+
+        people = load_roster(
+            interactive=args.interactive,
+            roster_json_path=args.roster_json,
+            roster_dir=args.roster_dir,
+            roster_pattern=args.roster_pattern
+        )
         if people:
             add_personnel_from_assignments(page, people)
-        # Optionally finalize here with "Submit as Complete" when you're ready.
-        print(f"Filled form, clicked 'Save and Add Users', people={len(people)}")
-        return 0
 
-if __name__ == "__main__":
-    raise SystemExit(main())
+        print("Filled form and clicked 'Save and Add Users'.")
+        return 0

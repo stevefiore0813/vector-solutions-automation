@@ -1,0 +1,4782 @@
+{
+  "generated_at": "2025-11-05T21:47:11.806645+00:00",
+  "source": "MiniCAD",
+  "units": [
+    {
+      "unit": "AC1",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "AC2",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "AC3",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "AC4",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "AC5",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "AC6",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "AMP101",
+      "unit_type": "",
+      "status": "Out-of-Service",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "AMPRO1",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "AMPRO2",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "ASI1",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "BAT11",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "11",
+      "district": "11",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "BRE1",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "BR1",
+      "district": "BR1",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "BRM1",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "BR6",
+      "district": "BR6",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "BRM2",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "BR2",
+      "district": "BR2",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "BRM4",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "BR6",
+      "district": "BR6",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "BRM5",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "BR5",
+      "district": "BR5",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "BRT1",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "BR1",
+      "district": "BR1",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "CNY1",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "CNY2",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "CNY3",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "CNY4",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "CNY42",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "CNY5",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "CNY56",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "CNY6",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "CR10",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "CR11",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "CR12",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "CR13",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "CR14",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "CR15",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "CR16",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "CR17",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "CR18",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "CR19",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "CR20",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "CR6",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "CR8",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "CR9",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "DEP",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "DISP",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "DISPAC",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "DOF",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "DOF2",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "DOF3",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "DRUG",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "ELEC",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "ELEC2",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "ELEC3",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "ELEC4",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "ELEC5",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "FFL",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "FFL",
+      "district": "FFL",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "FGL",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "GL",
+      "district": "GL",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "FJAX1",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "FJX1",
+      "district": "FJX1",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "FJMRN1",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "FJX1",
+      "district": "FJX1",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "FJMRN2",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "FJX1",
+      "district": "FJX1",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "FSTJ",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "STJF",
+      "district": "STJF",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "GAS",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "GAS2",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "INFEC",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JMRN39",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "NAS",
+      "district": "NAS",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JMRN68",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "NAS",
+      "district": "NAS",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXBR31",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX31",
+      "district": "JX31",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXBR43",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX43",
+      "district": "JX43",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXBR46",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX46",
+      "district": "JX46",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXE10",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX10",
+      "district": "JX10",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXE23",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX23",
+      "district": "JX23",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXE25",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX25",
+      "district": "JX25",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXE31",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX31",
+      "district": "JX31",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXE43",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX43",
+      "district": "JX43",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXE46",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX46",
+      "district": "JX46",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXE52",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX52",
+      "district": "JX52",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXE61",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX61",
+      "district": "JX61",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXF4",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX10",
+      "district": "JX10",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXF5",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX10",
+      "district": "JX10",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXF6",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX31",
+      "district": "JX31",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXF8",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX10",
+      "district": "JX10",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXF9",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX10",
+      "district": "JX10",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXL10",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX10",
+      "district": "JX10",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXL31",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX31",
+      "district": "JX31",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXR23",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX23",
+      "district": "JX23",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXR25",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX25",
+      "district": "JX25",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXR31",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX31",
+      "district": "JX31",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXR43",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX43",
+      "district": "JX43",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXR46",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX46",
+      "district": "JX46",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXR52",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX52",
+      "district": "JX52",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXR61",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX61",
+      "district": "JX61",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXSF2",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX32",
+      "district": "JX32",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXT31",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX31",
+      "district": "JX31",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXT43",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX43",
+      "district": "JX43",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "JXT52",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "JX52",
+      "district": "JX52",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "LBRTY1",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "LBRTY2",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "LBRTY3",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "LBRTY4",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "LBRTY5",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "LBRTY6",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "LF1",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "LF1",
+      "district": "LF1",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "LJAX1",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "FJX1",
+      "district": "FJX1",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "MDT202",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "MDT211",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "MDT212",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "MEC802",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "MEC804",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "MEC805",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "MEDT1",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "MEDT2",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "MIS1",
+      "unit_type": "",
+      "status": "Out-of-Service",
+      "home_station": "25",
+      "district": "25",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "SEGARS, JOSHUA",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "MIS2",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "SEGARS, JOSHUA",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "MIS3",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "19R",
+      "district": "19R",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "CHANEY, ANN",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "MRN11",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "11",
+      "district": "11",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "MRN25",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "25",
+      "district": "25",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "NC103",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "NAS",
+      "district": "NAS",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "NE121",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "NAS",
+      "district": "NAS",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "NE122",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "NAS",
+      "district": "NAS",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "NEURO1",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "NL131",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "NAS",
+      "district": "NAS",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "NR171",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "NAS",
+      "district": "NAS",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "NR172",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "NAS",
+      "district": "NAS",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "NSQ161",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "NAS",
+      "district": "NAS",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "OPEN",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "OSSI",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "SEGARS, JOSHUA",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "PV2",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "PV3",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "PV9",
+      "unit_type": "",
+      "status": "Vehicle-Swap",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "TR605 USING",
+      "staff": []
+    },
+    {
+      "unit": "RAT1",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "20",
+      "district": "20",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "RAT2",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "22",
+      "district": "22",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "RAT3",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "17",
+      "district": "17",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "RAT4",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "14",
+      "district": "14",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "RAT5",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "23",
+      "district": "23",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "RBRAD",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "BRAD",
+      "district": "BRAD",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "REDCRS",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "RJAX1",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "FJX1",
+      "district": "FJX1",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "RMED8",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "M8",
+      "district": "M8",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "RPU82",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "FLR",
+      "district": "FLR",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "RPU87",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "MEL",
+      "district": "MEL",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "RSTJ",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "STJF",
+      "district": "STJF",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "SC1",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "SC1",
+      "district": "SC1",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "SC2",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "SC2",
+      "district": "SC2",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "SERT",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "SFM",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "SFM2",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "SJB3",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "SJ3",
+      "district": "SJ3",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "SJE16",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "SJ16",
+      "district": "SJ16",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "SJE2",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "SJ2",
+      "district": "SJ2",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "SJE3",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "SJ3",
+      "district": "SJ3",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "SJHM16",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "SJ16",
+      "district": "SJ16",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "SJR16",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "SJ16",
+      "district": "SJ16",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "SJR2",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "SJ2",
+      "district": "SJ2",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "SJT3",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "SJ3",
+      "district": "SJ3",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "SPBAT2",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "SPAR",
+      "district": "SPAR",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "SWFT1",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "SWFT2",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "SWO",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "T1LC",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "T1LC",
+      "district": "T1LC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "T1N",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "T1N",
+      "district": "T1N",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "T1S",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "T1S",
+      "district": "T1S",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "TJAX1",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "FJX1",
+      "district": "FJX1",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "TOW1",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "TOW2",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "TR606",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "VBRB27",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "BR2",
+      "district": "BR2",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "VBRB56",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "BR5",
+      "district": "BR5",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "VBRB76",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "BR7",
+      "district": "BR7",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "VBRE20",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "BR2",
+      "district": "BR2",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "VBRE50",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "BR5",
+      "district": "BR5",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "VBRE70",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "BR7",
+      "district": "BR7",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "VBRT24",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "BR2",
+      "district": "BR2",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "VBRT53",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "BR5",
+      "district": "BR5",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "VBRT73",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "BR7",
+      "district": "BR7",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "VFBRAD",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "BRAD",
+      "district": "BRAD",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "VFME",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "MEL",
+      "district": "MEL",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "VOL3",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "VPB164",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "PU16",
+      "district": "PU16",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "VPB244",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "PU24",
+      "district": "PU24",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "VPC249",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "PU24",
+      "district": "PU24",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "VPE162",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "PU16",
+      "district": "PU16",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "VPE241",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "PU24",
+      "district": "PU24",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "VPE242",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "PU24",
+      "district": "PU24",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "VPS245",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "PU24",
+      "district": "PU24",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "VPT163",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "PU16",
+      "district": "PU16",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "VPT243",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "PU24",
+      "district": "PU24",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "VPW247",
+      "unit_type": "",
+      "status": "Available",
+      "home_station": "PU24",
+      "district": "PU24",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "ACC10157",
+      "unit_type": "ANIMALSERVICES",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "ACC10158",
+      "unit_type": "ANIMALSERVICES",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "ACC10220",
+      "unit_type": "ANIMALSERVICES",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "ACC10221",
+      "unit_type": "ANIMALSERVICES",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "ACC9688",
+      "unit_type": "ANIMALSERVICES",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "ACC9689",
+      "unit_type": "ANIMALSERVICES",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "ACC9690",
+      "unit_type": "ANIMALSERVICES",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "ACC9691",
+      "unit_type": "ANIMALSERVICES",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "ACC9966",
+      "unit_type": "ANIMALSERVICES",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "ACC9967",
+      "unit_type": "ANIMALSERVICES",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "ENF573",
+      "unit_type": "ANIMALSERVICES",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "ENF9298",
+      "unit_type": "ANIMALSERVICES",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "BAT1",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "22",
+      "district": "22",
+      "prime_officer": "HANSTEIN, LAURA",
+      "location": "",
+      "staff": [
+        {
+          "name": "Hanstein, Laura",
+          "role": "BC"
+        }
+      ]
+    },
+    {
+      "unit": "BAT2",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "14",
+      "district": "14",
+      "prime_officer": "VIGUE, JAMES",
+      "location": "",
+      "staff": [
+        {
+          "name": "Kuykendall, David L.",
+          "role": "BC"
+        }
+      ]
+    },
+    {
+      "unit": "BAT3",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "BAT4",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "22",
+      "district": "22",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "BAT5",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "18",
+      "district": "18",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "BAT6",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "22",
+      "district": "22",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "BAT7",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "14",
+      "district": "14",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "BAT8",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "FUTCH, WILLIAM",
+      "location": "",
+      "staff": [
+        {
+          "name": "FUTCH, WILLIAM",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "BAT9",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "SMITH, REBECCA",
+      "location": "",
+      "staff": [
+        {
+          "name": "SMITH, REBECCA",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "C19",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "19",
+      "district": "19",
+      "prime_officer": "CONTESTABILE, JOHN",
+      "location": "",
+      "staff": [
+        {
+          "name": "CONTESTABILE, JOHN",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "CHIEF1",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "MOCK, LORIN",
+      "location": "",
+      "staff": [
+        {
+          "name": "MOCK, LORIN",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "CHIEF2",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "MOTES, DAVID",
+      "location": "",
+      "staff": [
+        {
+          "name": "MOTES, DAVID",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "CHIEF3",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "BOREE, JASON",
+      "location": "",
+      "staff": [
+        {
+          "name": "BOREE, JASON",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "CHIEF4",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "LEROY, CHARLES",
+      "location": "",
+      "staff": [
+        {
+          "name": "LEROY, CHARLES",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "CHIEF6",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "11",
+      "district": "",
+      "prime_officer": "DOLEZEL, BRANDON",
+      "location": "",
+      "staff": [
+        {
+          "name": "DOLEZEL, BRANDON",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "CHIEF8",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "LEE, DUDLEY",
+      "location": "",
+      "staff": [
+        {
+          "name": "LEE, DUDLEY",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "COM5",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "CR1",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "HERRERA, JAIRO",
+      "location": "",
+      "staff": [
+        {
+          "name": "HERRERA, JAIRO",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "CR2",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "OUTMAN, AARON",
+      "location": "",
+      "staff": [
+        {
+          "name": "OUTMAN, AARON",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "CR3",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "14",
+      "district": "14",
+      "prime_officer": "VOLPE, JOSHUA",
+      "location": "",
+      "staff": [
+        {
+          "name": "OD2A Hammock, Christopher W.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "CR4",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "CR5",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "CR7",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "OUTMAN, AARON",
+      "location": "",
+      "staff": [
+        {
+          "name": "OUTMAN, AARON",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "CTY102",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "DC19",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "19",
+      "district": "19",
+      "prime_officer": "CONTESTABILE, JOHN",
+      "location": "",
+      "staff": [
+        {
+          "name": "CONTESTABILE, JOHN",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "FM701",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "BOIKE, MICHAEL",
+      "location": "",
+      "staff": [
+        {
+          "name": "BOIKE, MICHAEL",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "FM702",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "MAR7",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "ROSEBERRY, ANTHONY",
+      "location": "",
+      "staff": [
+        {
+          "name": "ROSEBERRY, ANTHONY",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "MCP",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "MD1",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "SRC905",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "15",
+      "district": "15",
+      "prime_officer": "LONG, JOHN H III",
+      "location": "",
+      "staff": [
+        {
+          "name": "LONG, JOHN H III",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "TR601",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "",
+      "prime_officer": "MCINTEE, JEROME",
+      "location": "",
+      "staff": [
+        {
+          "name": "MCINTEE, JEROME",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "TR602",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "",
+      "prime_officer": "CARNEY, CHRISTOPHER",
+      "location": "",
+      "staff": [
+        {
+          "name": "CARNEY, CHRISTOPHER",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "TR603",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "15",
+      "district": "15",
+      "prime_officer": "PATTERSON, BRADLEY",
+      "location": "",
+      "staff": [
+        {
+          "name": "SC Patterson, Bradley",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "TR604",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "INGRAM, KEVIN",
+      "location": "",
+      "staff": [
+        {
+          "name": "INGRAM, KEVIN",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "TR605",
+      "unit_type": "BC",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "CRIDER, MIICHAEL GARRETT",
+      "location": "",
+      "staff": [
+        {
+          "name": "CRIDER, MIICHAEL GARRETT",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "B1",
+      "unit_type": "BRUSH",
+      "status": "Vehicle-Swap",
+      "home_station": "SPAR",
+      "district": "SPAR",
+      "prime_officer": "NONE",
+      "location": "B26 USING",
+      "staff": []
+    },
+    {
+      "unit": "B11",
+      "unit_type": "BRUSH",
+      "status": "Available",
+      "home_station": "11",
+      "district": "11",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "B13",
+      "unit_type": "BRUSH",
+      "status": "Available",
+      "home_station": "13",
+      "district": "13",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "B14",
+      "unit_type": "BRUSH",
+      "status": "Available",
+      "home_station": "14",
+      "district": "14",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "B17",
+      "unit_type": "BRUSH",
+      "status": "Available",
+      "home_station": "17",
+      "district": "17",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "B22",
+      "unit_type": "BRUSH",
+      "status": "Out-of-Service",
+      "home_station": "22",
+      "district": "22",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "B23",
+      "unit_type": "BRUSH",
+      "status": "Available",
+      "home_station": "23",
+      "district": "23",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "B24",
+      "unit_type": "BRUSH",
+      "status": "Available",
+      "home_station": "24",
+      "district": "24",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "B26",
+      "unit_type": "BRUSH",
+      "status": "Available",
+      "home_station": "26",
+      "district": "26",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "W1",
+      "unit_type": "BRUSH",
+      "status": "Available",
+      "home_station": "14",
+      "district": "14",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "W15",
+      "unit_type": "BRUSH",
+      "status": "Available",
+      "home_station": "15",
+      "district": "15",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "W20",
+      "unit_type": "BRUSH",
+      "status": "Available",
+      "home_station": "20",
+      "district": "20",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "W23",
+      "unit_type": "BRUSH",
+      "status": "Available",
+      "home_station": "23",
+      "district": "23",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "W25",
+      "unit_type": "BRUSH",
+      "status": "Available",
+      "home_station": "25",
+      "district": "25",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "W3",
+      "unit_type": "BRUSH",
+      "status": "Vehicle-Swap",
+      "home_station": "SPAR",
+      "district": "SPAR",
+      "prime_officer": "NONE",
+      "location": "B24 USING",
+      "staff": []
+    },
+    {
+      "unit": "EM1",
+      "unit_type": "EM",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "DEVIN, TIMOTHY",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "EM2",
+      "unit_type": "EM",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "THOMAS, BRIAN",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "EM3",
+      "unit_type": "EM",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "WHITE, RANDALL",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "EM4",
+      "unit_type": "EM",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "FUTCH, KAYLA",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "E1",
+      "unit_type": "ENGINE",
+      "status": "Available",
+      "home_station": "14",
+      "district": "14",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "E11",
+      "unit_type": "ENGINE",
+      "status": "En-Route",
+      "home_station": "11",
+      "district": "11",
+      "prime_officer": "NONE",
+      "location": "7725 TWIN LAKES RD",
+      "staff": [
+        {
+          "name": "Hansen, Nicholas",
+          "role": "Officer"
+        },
+        {
+          "name": "Smith, Troy G.",
+          "role": "Engineer"
+        },
+        {
+          "name": "Kolaric, Clayton R.",
+          "role": "Firefighter"
+        }
+      ]
+    },
+    {
+      "unit": "E13",
+      "unit_type": "ENGINE",
+      "status": "Available",
+      "home_station": "13",
+      "district": "13",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Wilson, John",
+          "role": "Officer"
+        },
+        {
+          "name": "Morales, Rolando",
+          "role": "Engineer"
+        },
+        {
+          "name": "Devin, Grace",
+          "role": "Firefighter"
+        }
+      ]
+    },
+    {
+      "unit": "E14",
+      "unit_type": "ENGINE",
+      "status": "Available",
+      "home_station": "14",
+      "district": "14",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Wester Jr, Thomas",
+          "role": "Officer"
+        },
+        {
+          "name": "Cravey, Kyle",
+          "role": "Engineer"
+        },
+        {
+          "name": "Clayton, Kolben",
+          "role": "Firefighter"
+        },
+        {
+          "name": "Furris, Stefan",
+          "role": "Firefighter"
+        }
+      ]
+    },
+    {
+      "unit": "E15",
+      "unit_type": "ENGINE",
+      "status": "Available",
+      "home_station": "15",
+      "district": "15",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Hines, Sherry",
+          "role": "Officer"
+        },
+        {
+          "name": "Jennings, Jammie",
+          "role": "Engineer"
+        },
+        {
+          "name": "Cannata, Robert",
+          "role": "Firefighter"
+        },
+        {
+          "name": "Flewellyn, Matthew",
+          "role": "Firefighter"
+        }
+      ]
+    },
+    {
+      "unit": "E17",
+      "unit_type": "ENGINE",
+      "status": "Available",
+      "home_station": "17",
+      "district": "17",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Reed, Nicholas Z.",
+          "role": "Officer"
+        },
+        {
+          "name": "Ehly, Jonathon",
+          "role": "Engineer"
+        },
+        {
+          "name": "Del Rosso, Angelina",
+          "role": "Firefighter"
+        },
+        {
+          "name": "Anderson Jr., Shamarr",
+          "role": "Firefighter"
+        }
+      ]
+    },
+    {
+      "unit": "E18",
+      "unit_type": "ENGINE",
+      "status": "Available",
+      "home_station": "18",
+      "district": "18",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Baumgardner, Benjamin",
+          "role": "Officer"
+        },
+        {
+          "name": "Jones, Preston",
+          "role": "Engineer"
+        },
+        {
+          "name": "Young, Christopher",
+          "role": "Firefighter"
+        },
+        {
+          "name": "Schminke, Hunter M.",
+          "role": "Firefighter"
+        }
+      ]
+    },
+    {
+      "unit": "E19",
+      "unit_type": "ENGINE",
+      "status": "Available",
+      "home_station": "19",
+      "district": "19",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "CONTESTABILE, JOHN",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "E20",
+      "unit_type": "ENGINE",
+      "status": "Available",
+      "home_station": "20",
+      "district": "20",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Crosby, Patrick",
+          "role": "Officer"
+        },
+        {
+          "name": "Barwick, Robert L.",
+          "role": "Engineer"
+        },
+        {
+          "name": "Tyson, Mariel T.",
+          "role": "Firefighter"
+        }
+      ]
+    },
+    {
+      "unit": "E22",
+      "unit_type": "ENGINE",
+      "status": "Available",
+      "home_station": "22",
+      "district": "22",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Gowell, Justin K.",
+          "role": "Officer"
+        },
+        {
+          "name": "Grissett, Jacob C.",
+          "role": "Engineer"
+        },
+        {
+          "name": "Sechrist, Alexander C.",
+          "role": "Firefighter"
+        }
+      ]
+    },
+    {
+      "unit": "E23",
+      "unit_type": "ENGINE",
+      "status": "Available",
+      "home_station": "23",
+      "district": "23",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Lewis, Michael A.",
+          "role": "Officer"
+        },
+        {
+          "name": "Rosero, Matthew",
+          "role": "Engineer"
+        },
+        {
+          "name": "Ferri, Jeremy",
+          "role": "Firefighter"
+        }
+      ]
+    },
+    {
+      "unit": "E24",
+      "unit_type": "ENGINE",
+      "status": "Available",
+      "home_station": "24",
+      "district": "24",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Rooney, Patrick",
+          "role": "Officer"
+        },
+        {
+          "name": "Carey, James",
+          "role": "Engineer"
+        },
+        {
+          "name": "DePriest, Skylar",
+          "role": "Firefighter"
+        }
+      ]
+    },
+    {
+      "unit": "E25",
+      "unit_type": "ENGINE",
+      "status": "Available",
+      "home_station": "25",
+      "district": "25",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Fouraker, Thomas",
+          "role": "Officer"
+        },
+        {
+          "name": "Wisdom, Hunter",
+          "role": "Engineer"
+        },
+        {
+          "name": "Coleman, Justin",
+          "role": "Firefighter"
+        }
+      ]
+    },
+    {
+      "unit": "E26",
+      "unit_type": "ENGINE",
+      "status": "Out-of-Service",
+      "home_station": "26",
+      "district": "26",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Stokes Jr, Evan C.",
+          "role": ""
+        },
+        {
+          "name": "Stretton, Colin",
+          "role": ""
+        },
+        {
+          "name": "Stigler, Anthony",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "L1",
+      "unit_type": "LADDER",
+      "status": "Out-of-Service",
+      "home_station": "14",
+      "district": "14",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Hutchins, Joseph D.",
+          "role": "Officer"
+        },
+        {
+          "name": "McMillan, Luke",
+          "role": "Engineer"
+        },
+        {
+          "name": "Stevens, Zachary",
+          "role": "Firefighter"
+        },
+        {
+          "name": "Brown, Caden",
+          "role": "Firefighter"
+        }
+      ]
+    },
+    {
+      "unit": "L19",
+      "unit_type": "LADDER",
+      "status": "Out-of-Service",
+      "home_station": "19",
+      "district": "19",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "DEAN, JUSTIN",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "L20",
+      "unit_type": "LADDER",
+      "status": "Available",
+      "home_station": "20",
+      "district": "20",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Vlasin, Jeffrey",
+          "role": "Officer"
+        },
+        {
+          "name": "Wilkinson, Chris R.",
+          "role": "Engineer"
+        },
+        {
+          "name": "Wright, Zackary",
+          "role": "Firefighter"
+        },
+        {
+          "name": "Riles, Joe",
+          "role": "Firefighter"
+        }
+      ]
+    },
+    {
+      "unit": "L26",
+      "unit_type": "LADDER",
+      "status": "Available",
+      "home_station": "26",
+      "district": "26",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Stokes Jr, Evan C.",
+          "role": ""
+        },
+        {
+          "name": "Stretton, Colin",
+          "role": ""
+        },
+        {
+          "name": "Stigler, Anthony",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "LOG801",
+      "unit_type": "LOGISTICS",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "LOG802",
+      "unit_type": "LOGISTICS",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "LOG803",
+      "unit_type": "LOGISTICS",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "LOG804",
+      "unit_type": "LOGISTICS",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "LOG805",
+      "unit_type": "LOGISTICS",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "MILLER, JACK",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "M802",
+      "unit_type": "LOGISTICS",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "M804",
+      "unit_type": "LOGISTICS",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "PV10",
+      "unit_type": "LOGISTICS",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "PV11",
+      "unit_type": "LOGISTICS",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "PV5",
+      "unit_type": "LOGISTICS",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "PV6",
+      "unit_type": "LOGISTICS",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "PV7",
+      "unit_type": "LOGISTICS",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "PV8",
+      "unit_type": "LOGISTICS",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "UT15",
+      "unit_type": "LOGISTICS",
+      "status": "Available",
+      "home_station": "15",
+      "district": "15",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "UT2",
+      "unit_type": "LOGISTICS",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "R1",
+      "unit_type": "RESCUE",
+      "status": "Available-Out-of-District",
+      "home_station": "26",
+      "district": "18",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Newton, Jennifer",
+          "role": "Officer"
+        },
+        {
+          "name": "Boehnke, Drake",
+          "role": "Engineer"
+        }
+      ]
+    },
+    {
+      "unit": "R11",
+      "unit_type": "RESCUE",
+      "status": "Transport",
+      "home_station": "11",
+      "district": "11",
+      "prime_officer": "NONE",
+      "location": "UF HEALTH SHANDS",
+      "staff": [
+        {
+          "name": "Whitener, Nicholas D.",
+          "role": "Officer"
+        },
+        {
+          "name": "Johnson, Colin",
+          "role": "Engineer"
+        }
+      ]
+    },
+    {
+      "unit": "R13",
+      "unit_type": "RESCUE",
+      "status": "Available",
+      "home_station": "13",
+      "district": "13",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Batton, Matthew",
+          "role": "Officer"
+        },
+        {
+          "name": "Breeland, Matthew",
+          "role": "Engineer"
+        }
+      ]
+    },
+    {
+      "unit": "R14",
+      "unit_type": "RESCUE",
+      "status": "Available",
+      "home_station": "14",
+      "district": "14",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Woodall, Austin",
+          "role": "Officer"
+        },
+        {
+          "name": "Schaible, Gregory",
+          "role": "Engineer"
+        }
+      ]
+    },
+    {
+      "unit": "R15",
+      "unit_type": "RESCUE",
+      "status": "Available",
+      "home_station": "15",
+      "district": "15",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Gray, Brandon K.",
+          "role": "Officer"
+        },
+        {
+          "name": "Nelson, Gregory",
+          "role": "Engineer"
+        }
+      ]
+    },
+    {
+      "unit": "R17",
+      "unit_type": "RESCUE",
+      "status": "Available",
+      "home_station": "17",
+      "district": "17",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Brown, Vincent",
+          "role": "Officer"
+        },
+        {
+          "name": "Copeland, Michael",
+          "role": "Engineer"
+        }
+      ]
+    },
+    {
+      "unit": "R18",
+      "unit_type": "RESCUE",
+      "status": "Available",
+      "home_station": "18",
+      "district": "18",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Futch, Ryan",
+          "role": "Officer"
+        },
+        {
+          "name": "Sosa, Jesus",
+          "role": "Engineer"
+        }
+      ]
+    },
+    {
+      "unit": "R19",
+      "unit_type": "RESCUE",
+      "status": "Available",
+      "home_station": "19R",
+      "district": "19R",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "RATTRAY, GRAHAM",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "R20",
+      "unit_type": "RESCUE",
+      "status": "Available",
+      "home_station": "20",
+      "district": "20",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Gill, Thomas",
+          "role": "Officer"
+        },
+        {
+          "name": "Byrne, Jonathon",
+          "role": "Engineer"
+        }
+      ]
+    },
+    {
+      "unit": "R22",
+      "unit_type": "RESCUE",
+      "status": "Available",
+      "home_station": "22",
+      "district": "22",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Champion, Adam B.",
+          "role": "Officer"
+        },
+        {
+          "name": "Jaudon, Ja'Quan",
+          "role": "Engineer"
+        }
+      ]
+    },
+    {
+      "unit": "R22A",
+      "unit_type": "RESCUE",
+      "status": "Available",
+      "home_station": "19R",
+      "district": "19R",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Piotrowski, Steven",
+          "role": "Officer"
+        },
+        {
+          "name": "Denneen, Benjamin",
+          "role": "Engineer"
+        }
+      ]
+    },
+    {
+      "unit": "R23",
+      "unit_type": "RESCUE",
+      "status": "Transport",
+      "home_station": "23",
+      "district": "23",
+      "prime_officer": "NONE",
+      "location": "ST VINCENTS CLAY",
+      "staff": [
+        {
+          "name": "White, James",
+          "role": "Officer"
+        },
+        {
+          "name": "Alvaranga, Shiquanna",
+          "role": "Engineer"
+        }
+      ]
+    },
+    {
+      "unit": "R24",
+      "unit_type": "RESCUE",
+      "status": "Available",
+      "home_station": "24",
+      "district": "24",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Fisher, Michael",
+          "role": "Officer"
+        },
+        {
+          "name": "Wiemann, Robert",
+          "role": "Engineer"
+        }
+      ]
+    },
+    {
+      "unit": "R25",
+      "unit_type": "RESCUE",
+      "status": "En-Route",
+      "home_station": "25",
+      "district": "23",
+      "prime_officer": "NONE",
+      "location": "7725 TWIN LAKES RD",
+      "staff": [
+        {
+          "name": "Rowe, Jeffrey",
+          "role": "Officer"
+        },
+        {
+          "name": "Fallon, Roy J.",
+          "role": "Engineer"
+        }
+      ]
+    },
+    {
+      "unit": "R26",
+      "unit_type": "RESCUE",
+      "status": "Available",
+      "home_station": "26",
+      "district": "26",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Smigla, Richard",
+          "role": "Officer"
+        },
+        {
+          "name": "Barber, Jeremy",
+          "role": "Engineer"
+        }
+      ]
+    },
+    {
+      "unit": "E192",
+      "unit_type": "SPARE",
+      "status": "Out-of-Service",
+      "home_station": "19",
+      "district": "19",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "E61",
+      "unit_type": "SPARE",
+      "status": "Out-of-Service",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "L2",
+      "unit_type": "SPARE",
+      "status": "Out-of-Service",
+      "home_station": "SPAR",
+      "district": "SPAR",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "R100",
+      "unit_type": "SPARE",
+      "status": "Out-of-Service",
+      "home_station": "SPAR",
+      "district": "SPAR",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "R101",
+      "unit_type": "SPARE",
+      "status": "Out-of-Service",
+      "home_station": "SPAR",
+      "district": "SPAR",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "R102",
+      "unit_type": "SPARE",
+      "status": "Vehicle-Swap",
+      "home_station": "SPAR",
+      "district": "SPAR",
+      "prime_officer": "NONE",
+      "location": "R105 USING",
+      "staff": []
+    },
+    {
+      "unit": "R103",
+      "unit_type": "SPARE",
+      "status": "Out-of-Service",
+      "home_station": "17",
+      "district": "17",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "R104",
+      "unit_type": "SPARE",
+      "status": "Out-of-Service",
+      "home_station": "11",
+      "district": "11",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "R105",
+      "unit_type": "SPARE",
+      "status": "Out-of-Service",
+      "home_station": "20",
+      "district": "20",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "R106",
+      "unit_type": "SPARE",
+      "status": "Out-of-Service",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "R107",
+      "unit_type": "SPARE",
+      "status": "Out-of-Service",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "R108",
+      "unit_type": "SPARE",
+      "status": "Vehicle-Swap",
+      "home_station": "14",
+      "district": "14",
+      "prime_officer": "NONE",
+      "location": "R22A USING",
+      "staff": []
+    },
+    {
+      "unit": "R109",
+      "unit_type": "SPARE",
+      "status": "Out-of-Service",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "R110",
+      "unit_type": "SPARE",
+      "status": "Out-of-Service",
+      "home_station": "SPAR",
+      "district": "SPAR",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "R19A",
+      "unit_type": "SPARE",
+      "status": "Out-of-Service",
+      "home_station": "19R",
+      "district": "19R",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "RE111",
+      "unit_type": "SPARE",
+      "status": "Vehicle-Swap",
+      "home_station": "11",
+      "district": "11",
+      "prime_officer": "NONE",
+      "location": "E11 USING",
+      "staff": []
+    },
+    {
+      "unit": "RE171",
+      "unit_type": "SPARE",
+      "status": "Out-of-Service",
+      "home_station": "17",
+      "district": "17",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "RE181",
+      "unit_type": "SPARE",
+      "status": "Out-of-Service",
+      "home_station": "18",
+      "district": "18",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "RE201",
+      "unit_type": "SPARE",
+      "status": "Vehicle-Swap",
+      "home_station": "20",
+      "district": "20",
+      "prime_officer": "NONE",
+      "location": "E1 USING",
+      "staff": []
+    },
+    {
+      "unit": "RE221",
+      "unit_type": "SPARE",
+      "status": "Out-of-Service",
+      "home_station": "22",
+      "district": "22",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "RE231",
+      "unit_type": "SPARE",
+      "status": "Out-of-Service",
+      "home_station": "23",
+      "district": "23",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "SE100",
+      "unit_type": "SPARE",
+      "status": "Out-of-Service",
+      "home_station": "SPAR",
+      "district": "SPAR",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "SE101",
+      "unit_type": "SPARE",
+      "status": "Out-of-Service",
+      "home_station": "SPAR",
+      "district": "SPAR",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "SE102",
+      "unit_type": "SPARE",
+      "status": "Out-of-Service",
+      "home_station": "14",
+      "district": "14",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "SPBAT",
+      "unit_type": "SPARE",
+      "status": "Vehicle-Swap",
+      "home_station": "SPAR",
+      "district": "SPAR",
+      "prime_officer": "NONE",
+      "location": "BAT2 USING",
+      "staff": []
+    },
+    {
+      "unit": "ADMIN",
+      "unit_type": "SPECIALUNIT",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "MOTES, DAVID",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "AIR1",
+      "unit_type": "SPECIALUNIT",
+      "status": "Available",
+      "home_station": "22",
+      "district": "22",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "SMITH, JONATHAN M",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "AIR14",
+      "unit_type": "SPECIALUNIT",
+      "status": "Available",
+      "home_station": "14",
+      "district": "14",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "HM22",
+      "unit_type": "SPECIALUNIT",
+      "status": "Available",
+      "home_station": "22",
+      "district": "22",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "VIGUE, JAMES",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "HM221",
+      "unit_type": "SPECIALUNIT",
+      "status": "Available",
+      "home_station": "22",
+      "district": "22",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "HR15",
+      "unit_type": "SPECIALUNIT",
+      "status": "Available",
+      "home_station": "15",
+      "district": "15",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "MERV1",
+      "unit_type": "SPECIALUNIT",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "GIBBS, STEVEN",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "MERV2",
+      "unit_type": "SPECIALUNIT",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "SWEAT, ANTHONY",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "MRN1",
+      "unit_type": "SPECIALUNIT",
+      "status": "Available",
+      "home_station": "22",
+      "district": "22",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "MRN15",
+      "unit_type": "SPECIALUNIT",
+      "status": "Available",
+      "home_station": "15",
+      "district": "15",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "RE6",
+      "unit_type": "SPECIALUNIT",
+      "status": "Out-of-Service",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "SWAT9",
+      "unit_type": "SPECIALUNIT",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "VIGUE, JAMES",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "SWT901",
+      "unit_type": "SPECIALUNIT",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "WILKERSON, WILLIAM",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "SWT902",
+      "unit_type": "SPECIALUNIT",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "WEBBER, JUSTIN C",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "SWT903",
+      "unit_type": "SPECIALUNIT",
+      "status": "Available",
+      "home_station": "MISC",
+      "district": "MISC",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "UT19",
+      "unit_type": "SPECIALUNIT",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "UT6",
+      "unit_type": "SPECIALUNIT",
+      "status": "Available",
+      "home_station": "HQ",
+      "district": "HQ",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "T119",
+      "unit_type": "TENDER",
+      "status": "Available",
+      "home_station": "11",
+      "district": "11",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Keister, Damian",
+          "role": "Engineer"
+        }
+      ]
+    },
+    {
+      "unit": "T138",
+      "unit_type": "TENDER",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "T149",
+      "unit_type": "TENDER",
+      "status": "Available",
+      "home_station": "14",
+      "district": "14",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Ussery, Blake J.",
+          "role": "Engineer"
+        }
+      ]
+    },
+    {
+      "unit": "T159",
+      "unit_type": "TENDER",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "T209",
+      "unit_type": "TENDER",
+      "status": "Available",
+      "home_station": "20",
+      "district": "20",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Conomea, James J.",
+          "role": "Engineer"
+        }
+      ]
+    },
+    {
+      "unit": "T237",
+      "unit_type": "TENDER",
+      "status": "Available",
+      "home_station": "",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "GRAUDONS, CLINT",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "T238",
+      "unit_type": "TENDER",
+      "status": "Available",
+      "home_station": "23",
+      "district": "23",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": [
+        {
+          "name": "Compton, Josh",
+          "role": "Engineer"
+        }
+      ]
+    },
+    {
+      "unit": "T239",
+      "unit_type": "TENDER",
+      "status": "Available",
+      "home_station": "23",
+      "district": "23",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    },
+    {
+      "unit": "T248",
+      "unit_type": "TENDER",
+      "status": "Vehicle-Swap",
+      "home_station": "24",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "T209 USING",
+      "staff": [
+        {
+          "name": "COOK, JOHN JR",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "unit": "T259",
+      "unit_type": "TENDER",
+      "status": "Out-of-Service",
+      "home_station": "25",
+      "district": "",
+      "prime_officer": "NONE",
+      "location": "",
+      "staff": []
+    }
+  ],
+  "flat": [
+    "SEGARS, JOSHUA",
+    "CHANEY, ANN",
+    "Hanstein, Laura",
+    "Kuykendall, David L.",
+    "FUTCH, WILLIAM",
+    "SMITH, REBECCA",
+    "CONTESTABILE, JOHN",
+    "MOCK, LORIN",
+    "MOTES, DAVID",
+    "BOREE, JASON",
+    "LEROY, CHARLES",
+    "DOLEZEL, BRANDON",
+    "LEE, DUDLEY",
+    "HERRERA, JAIRO",
+    "OUTMAN, AARON",
+    "OD2A Hammock, Christopher W.",
+    "BOIKE, MICHAEL",
+    "ROSEBERRY, ANTHONY",
+    "LONG, JOHN H III",
+    "MCINTEE, JEROME",
+    "CARNEY, CHRISTOPHER",
+    "SC Patterson, Bradley",
+    "INGRAM, KEVIN",
+    "CRIDER, MIICHAEL GARRETT",
+    "DEVIN, TIMOTHY",
+    "THOMAS, BRIAN",
+    "WHITE, RANDALL",
+    "FUTCH, KAYLA",
+    "Hansen, Nicholas",
+    "Smith, Troy G.",
+    "Kolaric, Clayton R.",
+    "Wilson, John",
+    "Morales, Rolando",
+    "Devin, Grace",
+    "Wester Jr, Thomas",
+    "Cravey, Kyle",
+    "Clayton, Kolben",
+    "Furris, Stefan",
+    "Hines, Sherry",
+    "Jennings, Jammie",
+    "Cannata, Robert",
+    "Flewellyn, Matthew",
+    "Reed, Nicholas Z.",
+    "Ehly, Jonathon",
+    "Del Rosso, Angelina",
+    "Anderson Jr., Shamarr",
+    "Baumgardner, Benjamin",
+    "Jones, Preston",
+    "Young, Christopher",
+    "Schminke, Hunter M.",
+    "Crosby, Patrick",
+    "Barwick, Robert L.",
+    "Tyson, Mariel T.",
+    "Gowell, Justin K.",
+    "Grissett, Jacob C.",
+    "Sechrist, Alexander C.",
+    "Lewis, Michael A.",
+    "Rosero, Matthew",
+    "Ferri, Jeremy",
+    "Rooney, Patrick",
+    "Carey, James",
+    "DePriest, Skylar",
+    "Fouraker, Thomas",
+    "Wisdom, Hunter",
+    "Coleman, Justin",
+    "Stokes Jr, Evan C.",
+    "Stretton, Colin",
+    "Stigler, Anthony",
+    "Hutchins, Joseph D.",
+    "McMillan, Luke",
+    "Stevens, Zachary",
+    "Brown, Caden",
+    "DEAN, JUSTIN",
+    "Vlasin, Jeffrey",
+    "Wilkinson, Chris R.",
+    "Wright, Zackary",
+    "Riles, Joe",
+    "MILLER, JACK",
+    "Newton, Jennifer",
+    "Boehnke, Drake",
+    "Whitener, Nicholas D.",
+    "Johnson, Colin",
+    "Batton, Matthew",
+    "Breeland, Matthew",
+    "Woodall, Austin",
+    "Schaible, Gregory",
+    "Gray, Brandon K.",
+    "Nelson, Gregory",
+    "Brown, Vincent",
+    "Copeland, Michael",
+    "Futch, Ryan",
+    "Sosa, Jesus",
+    "RATTRAY, GRAHAM",
+    "Gill, Thomas",
+    "Byrne, Jonathon",
+    "Champion, Adam B.",
+    "Jaudon, Ja'Quan",
+    "Piotrowski, Steven",
+    "Denneen, Benjamin",
+    "White, James",
+    "Alvaranga, Shiquanna",
+    "Fisher, Michael",
+    "Wiemann, Robert",
+    "Rowe, Jeffrey",
+    "Fallon, Roy J.",
+    "Smigla, Richard",
+    "Barber, Jeremy",
+    "SMITH, JONATHAN M",
+    "VIGUE, JAMES",
+    "GIBBS, STEVEN",
+    "SWEAT, ANTHONY",
+    "WILKERSON, WILLIAM",
+    "WEBBER, JUSTIN C",
+    "Keister, Damian",
+    "Ussery, Blake J.",
+    "Conomea, James J.",
+    "GRAUDONS, CLINT",
+    "Compton, Josh",
+    "COOK, JOHN JR"
+  ],
+  "by_unit": {
+    "AC1": [],
+    "AC2": [],
+    "AC3": [],
+    "AC4": [],
+    "AC5": [],
+    "AC6": [],
+    "AMP101": [],
+    "AMPRO1": [],
+    "AMPRO2": [],
+    "ASI1": [],
+    "BAT11": [],
+    "BRE1": [],
+    "BRM1": [],
+    "BRM2": [],
+    "BRM4": [],
+    "BRM5": [],
+    "BRT1": [],
+    "CNY1": [],
+    "CNY2": [],
+    "CNY3": [],
+    "CNY4": [],
+    "CNY42": [],
+    "CNY5": [],
+    "CNY56": [],
+    "CNY6": [],
+    "CR10": [],
+    "CR11": [],
+    "CR12": [],
+    "CR13": [],
+    "CR14": [],
+    "CR15": [],
+    "CR16": [],
+    "CR17": [],
+    "CR18": [],
+    "CR19": [],
+    "CR20": [],
+    "CR6": [],
+    "CR8": [],
+    "CR9": [],
+    "DEP": [],
+    "DISP": [],
+    "DISPAC": [],
+    "DOF": [],
+    "DOF2": [],
+    "DOF3": [],
+    "DRUG": [],
+    "ELEC": [],
+    "ELEC2": [],
+    "ELEC3": [],
+    "ELEC4": [],
+    "ELEC5": [],
+    "FFL": [],
+    "FGL": [],
+    "FJAX1": [],
+    "FJMRN1": [],
+    "FJMRN2": [],
+    "FSTJ": [],
+    "GAS": [],
+    "GAS2": [],
+    "INFEC": [],
+    "JMRN39": [],
+    "JMRN68": [],
+    "JXBR31": [],
+    "JXBR43": [],
+    "JXBR46": [],
+    "JXE10": [],
+    "JXE23": [],
+    "JXE25": [],
+    "JXE31": [],
+    "JXE43": [],
+    "JXE46": [],
+    "JXE52": [],
+    "JXE61": [],
+    "JXF4": [],
+    "JXF5": [],
+    "JXF6": [],
+    "JXF8": [],
+    "JXF9": [],
+    "JXL10": [],
+    "JXL31": [],
+    "JXR23": [],
+    "JXR25": [],
+    "JXR31": [],
+    "JXR43": [],
+    "JXR46": [],
+    "JXR52": [],
+    "JXR61": [],
+    "JXSF2": [],
+    "JXT31": [],
+    "JXT43": [],
+    "JXT52": [],
+    "LBRTY1": [],
+    "LBRTY2": [],
+    "LBRTY3": [],
+    "LBRTY4": [],
+    "LBRTY5": [],
+    "LBRTY6": [],
+    "LF1": [],
+    "LJAX1": [],
+    "MDT202": [],
+    "MDT211": [],
+    "MDT212": [],
+    "MEC802": [],
+    "MEC804": [],
+    "MEC805": [],
+    "MEDT1": [],
+    "MEDT2": [],
+    "MIS1": [
+      "SEGARS, JOSHUA"
+    ],
+    "MIS2": [
+      "SEGARS, JOSHUA"
+    ],
+    "MIS3": [
+      "CHANEY, ANN"
+    ],
+    "MRN11": [],
+    "MRN25": [],
+    "NC103": [],
+    "NE121": [],
+    "NE122": [],
+    "NEURO1": [],
+    "NL131": [],
+    "NR171": [],
+    "NR172": [],
+    "NSQ161": [],
+    "OPEN": [],
+    "OSSI": [
+      "SEGARS, JOSHUA"
+    ],
+    "PV2": [],
+    "PV3": [],
+    "PV9": [],
+    "RAT1": [],
+    "RAT2": [],
+    "RAT3": [],
+    "RAT4": [],
+    "RAT5": [],
+    "RBRAD": [],
+    "REDCRS": [],
+    "RJAX1": [],
+    "RMED8": [],
+    "RPU82": [],
+    "RPU87": [],
+    "RSTJ": [],
+    "SC1": [],
+    "SC2": [],
+    "SERT": [],
+    "SFM": [],
+    "SFM2": [],
+    "SJB3": [],
+    "SJE16": [],
+    "SJE2": [],
+    "SJE3": [],
+    "SJHM16": [],
+    "SJR16": [],
+    "SJR2": [],
+    "SJT3": [],
+    "SPBAT2": [],
+    "SWFT1": [],
+    "SWFT2": [],
+    "SWO": [],
+    "T1LC": [],
+    "T1N": [],
+    "T1S": [],
+    "TJAX1": [],
+    "TOW1": [],
+    "TOW2": [],
+    "TR606": [],
+    "VBRB27": [],
+    "VBRB56": [],
+    "VBRB76": [],
+    "VBRE20": [],
+    "VBRE50": [],
+    "VBRE70": [],
+    "VBRT24": [],
+    "VBRT53": [],
+    "VBRT73": [],
+    "VFBRAD": [],
+    "VFME": [],
+    "VOL3": [],
+    "VPB164": [],
+    "VPB244": [],
+    "VPC249": [],
+    "VPE162": [],
+    "VPE241": [],
+    "VPE242": [],
+    "VPS245": [],
+    "VPT163": [],
+    "VPT243": [],
+    "VPW247": [],
+    "ACC10157": [],
+    "ACC10158": [],
+    "ACC10220": [],
+    "ACC10221": [],
+    "ACC9688": [],
+    "ACC9689": [],
+    "ACC9690": [],
+    "ACC9691": [],
+    "ACC9966": [],
+    "ACC9967": [],
+    "ENF573": [],
+    "ENF9298": [],
+    "BAT1": [
+      "Hanstein, Laura"
+    ],
+    "BAT2": [
+      "Kuykendall, David L."
+    ],
+    "BAT3": [],
+    "BAT4": [],
+    "BAT5": [],
+    "BAT6": [],
+    "BAT7": [],
+    "BAT8": [
+      "FUTCH, WILLIAM"
+    ],
+    "BAT9": [
+      "SMITH, REBECCA"
+    ],
+    "C19": [
+      "CONTESTABILE, JOHN"
+    ],
+    "CHIEF1": [
+      "MOCK, LORIN"
+    ],
+    "CHIEF2": [
+      "MOTES, DAVID"
+    ],
+    "CHIEF3": [
+      "BOREE, JASON"
+    ],
+    "CHIEF4": [
+      "LEROY, CHARLES"
+    ],
+    "CHIEF6": [
+      "DOLEZEL, BRANDON"
+    ],
+    "CHIEF8": [
+      "LEE, DUDLEY"
+    ],
+    "COM5": [],
+    "CR1": [
+      "HERRERA, JAIRO"
+    ],
+    "CR2": [
+      "OUTMAN, AARON"
+    ],
+    "CR3": [
+      "OD2A Hammock, Christopher W."
+    ],
+    "CR4": [],
+    "CR5": [],
+    "CR7": [
+      "OUTMAN, AARON"
+    ],
+    "CTY102": [],
+    "DC19": [
+      "CONTESTABILE, JOHN"
+    ],
+    "FM701": [
+      "BOIKE, MICHAEL"
+    ],
+    "FM702": [],
+    "MAR7": [
+      "ROSEBERRY, ANTHONY"
+    ],
+    "MCP": [],
+    "MD1": [],
+    "SRC905": [
+      "LONG, JOHN H III"
+    ],
+    "TR601": [
+      "MCINTEE, JEROME"
+    ],
+    "TR602": [
+      "CARNEY, CHRISTOPHER"
+    ],
+    "TR603": [
+      "SC Patterson, Bradley"
+    ],
+    "TR604": [
+      "INGRAM, KEVIN"
+    ],
+    "TR605": [
+      "CRIDER, MIICHAEL GARRETT"
+    ],
+    "B1": [],
+    "B11": [],
+    "B13": [],
+    "B14": [],
+    "B17": [],
+    "B22": [],
+    "B23": [],
+    "B24": [],
+    "B26": [],
+    "W1": [],
+    "W15": [],
+    "W20": [],
+    "W23": [],
+    "W25": [],
+    "W3": [],
+    "EM1": [
+      "DEVIN, TIMOTHY"
+    ],
+    "EM2": [
+      "THOMAS, BRIAN"
+    ],
+    "EM3": [
+      "WHITE, RANDALL"
+    ],
+    "EM4": [
+      "FUTCH, KAYLA"
+    ],
+    "E1": [],
+    "E11": [
+      "Hansen, Nicholas",
+      "Smith, Troy G.",
+      "Kolaric, Clayton R."
+    ],
+    "E13": [
+      "Wilson, John",
+      "Morales, Rolando",
+      "Devin, Grace"
+    ],
+    "E14": [
+      "Wester Jr, Thomas",
+      "Cravey, Kyle",
+      "Clayton, Kolben",
+      "Furris, Stefan"
+    ],
+    "E15": [
+      "Hines, Sherry",
+      "Jennings, Jammie",
+      "Cannata, Robert",
+      "Flewellyn, Matthew"
+    ],
+    "E17": [
+      "Reed, Nicholas Z.",
+      "Ehly, Jonathon",
+      "Del Rosso, Angelina",
+      "Anderson Jr., Shamarr"
+    ],
+    "E18": [
+      "Baumgardner, Benjamin",
+      "Jones, Preston",
+      "Young, Christopher",
+      "Schminke, Hunter M."
+    ],
+    "E19": [
+      "CONTESTABILE, JOHN"
+    ],
+    "E20": [
+      "Crosby, Patrick",
+      "Barwick, Robert L.",
+      "Tyson, Mariel T."
+    ],
+    "E22": [
+      "Gowell, Justin K.",
+      "Grissett, Jacob C.",
+      "Sechrist, Alexander C."
+    ],
+    "E23": [
+      "Lewis, Michael A.",
+      "Rosero, Matthew",
+      "Ferri, Jeremy"
+    ],
+    "E24": [
+      "Rooney, Patrick",
+      "Carey, James",
+      "DePriest, Skylar"
+    ],
+    "E25": [
+      "Fouraker, Thomas",
+      "Wisdom, Hunter",
+      "Coleman, Justin"
+    ],
+    "E26": [
+      "Stokes Jr, Evan C.",
+      "Stretton, Colin",
+      "Stigler, Anthony"
+    ],
+    "L1": [
+      "Hutchins, Joseph D.",
+      "McMillan, Luke",
+      "Stevens, Zachary",
+      "Brown, Caden"
+    ],
+    "L19": [
+      "DEAN, JUSTIN"
+    ],
+    "L20": [
+      "Vlasin, Jeffrey",
+      "Wilkinson, Chris R.",
+      "Wright, Zackary",
+      "Riles, Joe"
+    ],
+    "L26": [
+      "Stokes Jr, Evan C.",
+      "Stretton, Colin",
+      "Stigler, Anthony"
+    ],
+    "LOG801": [],
+    "LOG802": [],
+    "LOG803": [],
+    "LOG804": [],
+    "LOG805": [
+      "MILLER, JACK"
+    ],
+    "M802": [],
+    "M804": [],
+    "PV10": [],
+    "PV11": [],
+    "PV5": [],
+    "PV6": [],
+    "PV7": [],
+    "PV8": [],
+    "UT15": [],
+    "UT2": [],
+    "R1": [
+      "Newton, Jennifer",
+      "Boehnke, Drake"
+    ],
+    "R11": [
+      "Whitener, Nicholas D.",
+      "Johnson, Colin"
+    ],
+    "R13": [
+      "Batton, Matthew",
+      "Breeland, Matthew"
+    ],
+    "R14": [
+      "Woodall, Austin",
+      "Schaible, Gregory"
+    ],
+    "R15": [
+      "Gray, Brandon K.",
+      "Nelson, Gregory"
+    ],
+    "R17": [
+      "Brown, Vincent",
+      "Copeland, Michael"
+    ],
+    "R18": [
+      "Futch, Ryan",
+      "Sosa, Jesus"
+    ],
+    "R19": [
+      "RATTRAY, GRAHAM"
+    ],
+    "R20": [
+      "Gill, Thomas",
+      "Byrne, Jonathon"
+    ],
+    "R22": [
+      "Champion, Adam B.",
+      "Jaudon, Ja'Quan"
+    ],
+    "R22A": [
+      "Piotrowski, Steven",
+      "Denneen, Benjamin"
+    ],
+    "R23": [
+      "White, James",
+      "Alvaranga, Shiquanna"
+    ],
+    "R24": [
+      "Fisher, Michael",
+      "Wiemann, Robert"
+    ],
+    "R25": [
+      "Rowe, Jeffrey",
+      "Fallon, Roy J."
+    ],
+    "R26": [
+      "Smigla, Richard",
+      "Barber, Jeremy"
+    ],
+    "E192": [],
+    "E61": [],
+    "L2": [],
+    "R100": [],
+    "R101": [],
+    "R102": [],
+    "R103": [],
+    "R104": [],
+    "R105": [],
+    "R106": [],
+    "R107": [],
+    "R108": [],
+    "R109": [],
+    "R110": [],
+    "R19A": [],
+    "RE111": [],
+    "RE171": [],
+    "RE181": [],
+    "RE201": [],
+    "RE221": [],
+    "RE231": [],
+    "SE100": [],
+    "SE101": [],
+    "SE102": [],
+    "SPBAT": [],
+    "ADMIN": [
+      "MOTES, DAVID"
+    ],
+    "AIR1": [
+      "SMITH, JONATHAN M"
+    ],
+    "AIR14": [],
+    "HM22": [
+      "VIGUE, JAMES"
+    ],
+    "HM221": [],
+    "HR15": [],
+    "MERV1": [
+      "GIBBS, STEVEN"
+    ],
+    "MERV2": [
+      "SWEAT, ANTHONY"
+    ],
+    "MRN1": [],
+    "MRN15": [],
+    "RE6": [],
+    "SWAT9": [
+      "VIGUE, JAMES"
+    ],
+    "SWT901": [
+      "WILKERSON, WILLIAM"
+    ],
+    "SWT902": [
+      "WEBBER, JUSTIN C"
+    ],
+    "SWT903": [],
+    "UT19": [],
+    "UT6": [],
+    "T119": [
+      "Keister, Damian"
+    ],
+    "T138": [],
+    "T149": [
+      "Ussery, Blake J."
+    ],
+    "T159": [],
+    "T209": [
+      "Conomea, James J."
+    ],
+    "T237": [
+      "GRAUDONS, CLINT"
+    ],
+    "T238": [
+      "Compton, Josh"
+    ],
+    "T239": [],
+    "T248": [
+      "COOK, JOHN JR"
+    ],
+    "T259": []
+  }
+}

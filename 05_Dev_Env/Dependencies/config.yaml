@@ -1,21 +1,8 @@
-# How many modules to include in the daily bundle
-modules_per_day: 3
+# Default roster for auto mode
+default_units:
+  - R1
+  - R26
+  - L26
 
-# If set, use this seed; otherwise seed by YYYY-MM-DD
-fixed_seed: null
-
-# Where to read inputs and write outputs (relative to repo root)
-paths:
-  input_dir: "03_Training_Content/Raw_Trng_Files"
-  output_dir: "04_Outputs/Generated_Training"
-  log_dir: "04_Outputs/Logs"
-
-# Acceptable heading names that mark module starts (case-insensitive)
-module_heading_aliases: ["module", "training", "lesson"]
-
-# Output file naming pattern
-output_name_pattern: "daily_training_{date}.md"  # {date} -> YYYY-MM-DD
-default_location: "Station 1 A-side bay"
-default_instructor: "Lt. Fiore"
-default_duration_hours: 1
-default_training_types: ["Fire Extinguishers"]
+# Path to roster file
+roster_path: /home/training-bot/projects/vector-solutions/02_Scripts/Rosters/roster.json

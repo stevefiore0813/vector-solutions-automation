@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-05T21:47:11.806645+00:00",
+  "generated_at": "2025-11-08T17:14:30.122511+00:00",
   "source": "MiniCAD",
   "units": [
     {
@@ -1630,7 +1630,12 @@
       "district": "HQ",
       "prime_officer": "NONE",
       "location": "",
-      "staff": []
+      "staff": [
+        {
+          "name": "VLASIN, JEFFORY",
+          "role": ""
+        }
+      ]
     },
     {
       "unit": "VBRB27",
@@ -1978,11 +1983,11 @@
       "status": "Available",
       "home_station": "22",
       "district": "22",
-      "prime_officer": "HANSTEIN, LAURA",
+      "prime_officer": "VIGUE, JAMES",
       "location": "",
       "staff": [
         {
-          "name": "Hanstein, Laura",
+          "name": "Vigue, James",
           "role": "BC"
         }
       ]
@@ -1993,7 +1998,7 @@
       "status": "Available",
       "home_station": "14",
       "district": "14",
-      "prime_officer": "VIGUE, JAMES",
+      "prime_officer": "KUYKENDALL, DAVID",
       "location": "",
       "staff": [
         {
@@ -2233,11 +2238,11 @@
       "status": "Available",
       "home_station": "14",
       "district": "14",
-      "prime_officer": "VOLPE, JOSHUA",
+      "prime_officer": "KICKLIGHTER, DARREN",
       "location": "",
       "staff": [
         {
-          "name": "OD2A Hammock, Christopher W.",
+          "name": "OD2A Kicklighter, Darren",
           "role": ""
         }
       ]
@@ -2665,24 +2670,29 @@
     {
       "unit": "E1",
       "unit_type": "ENGINE",
-      "status": "Available",
+      "status": "Out-of-Service",
       "home_station": "14",
       "district": "14",
       "prime_officer": "NONE",
       "location": "",
-      "staff": []
+      "staff": [
+        {
+          "name": "CHRIST, AUSTIN RYAN",
+          "role": ""
+        }
+      ]
     },
     {
       "unit": "E11",
       "unit_type": "ENGINE",
-      "status": "En-Route",
+      "status": "Available",
       "home_station": "11",
       "district": "11",
       "prime_officer": "NONE",
-      "location": "7725 TWIN LAKES RD",
+      "location": "",
       "staff": [
         {
-          "name": "Hansen, Nicholas",
+          "name": "McMillan, Mark",
           "role": "Officer"
         },
         {
@@ -2698,22 +2708,22 @@
     {
       "unit": "E13",
       "unit_type": "ENGINE",
-      "status": "Available",
+      "status": "Dispatched",
       "home_station": "13",
       "district": "13",
       "prime_officer": "NONE",
-      "location": "",
+      "location": "2220 S COCOA AV",
       "staff": [
         {
           "name": "Wilson, John",
           "role": "Officer"
         },
         {
-          "name": "Morales, Rolando",
+          "name": "Breeland, Matthew",
           "role": "Engineer"
         },
         {
-          "name": "Devin, Grace",
+          "name": "Fry, Blake",
           "role": "Firefighter"
         }
       ]
@@ -2721,14 +2731,14 @@
     {
       "unit": "E14",
       "unit_type": "ENGINE",
-      "status": "Available",
+      "status": "Arrived",
       "home_station": "14",
       "district": "14",
       "prime_officer": "NONE",
-      "location": "",
+      "location": "65 PANDA AV",
       "staff": [
         {
-          "name": "Wester Jr, Thomas",
+          "name": "Soles, Eric",
           "role": "Officer"
         },
         {
@@ -2737,10 +2747,6 @@
         },
         {
           "name": "Clayton, Kolben",
-          "role": "Firefighter"
-        },
-        {
-          "name": "Furris, Stefan",
           "role": "Firefighter"
         }
       ]
@@ -2755,7 +2761,7 @@
       "location": "",
       "staff": [
         {
-          "name": "Hines, Sherry",
+          "name": "Wilkerson, William",
           "role": "Officer"
         },
         {
@@ -2763,7 +2769,7 @@
           "role": "Engineer"
         },
         {
-          "name": "Cannata, Robert",
+          "name": "Del Rosso, Angelina",
           "role": "Firefighter"
         },
         {
@@ -2790,10 +2796,6 @@
           "role": "Engineer"
         },
         {
-          "name": "Del Rosso, Angelina",
-          "role": "Firefighter"
-        },
-        {
           "name": "Anderson Jr., Shamarr",
           "role": "Firefighter"
         }
@@ -2813,15 +2815,11 @@
           "role": "Officer"
         },
         {
-          "name": "Jones, Preston",
+          "name": "Sosa, Jesus",
           "role": "Engineer"
         },
         {
           "name": "Young, Christopher",
-          "role": "Firefighter"
-        },
-        {
-          "name": "Schminke, Hunter M.",
           "role": "Firefighter"
         }
       ]
@@ -2836,7 +2834,7 @@
       "location": "",
       "staff": [
         {
-          "name": "CONTESTABILE, JOHN",
+          "name": "TAYLOR, KEITH",
           "role": ""
         }
       ]
@@ -2855,8 +2853,12 @@
           "role": "Officer"
         },
         {
-          "name": "Barwick, Robert L.",
+          "name": "Milligan, Morgan",
           "role": "Engineer"
+        },
+        {
+          "name": "Hendrix, Jacob",
+          "role": "Firefighter"
         },
         {
           "name": "Tyson, Mariel T.",
@@ -2867,22 +2869,26 @@
     {
       "unit": "E22",
       "unit_type": "ENGINE",
-      "status": "Available",
+      "status": "Dispatched",
       "home_station": "22",
       "district": "22",
       "prime_officer": "NONE",
-      "location": "",
+      "location": "1733 TOWN CENTER BLVD",
       "staff": [
         {
-          "name": "Gowell, Justin K.",
+          "name": "Brinley, Matthew S.",
           "role": "Officer"
         },
         {
-          "name": "Grissett, Jacob C.",
+          "name": "Gray, Brandon K.",
           "role": "Engineer"
         },
         {
           "name": "Sechrist, Alexander C.",
+          "role": "Firefighter"
+        },
+        {
+          "name": "Grissett, Jacob C.",
           "role": "Firefighter"
         }
       ]
@@ -2905,7 +2911,7 @@
           "role": "Engineer"
         },
         {
-          "name": "Ferri, Jeremy",
+          "name": "Padgett, Madison",
           "role": "Firefighter"
         }
       ]
@@ -2947,7 +2953,7 @@
           "role": "Officer"
         },
         {
-          "name": "Wisdom, Hunter",
+          "name": "Fraley, Andrew",
           "role": "Engineer"
         },
         {
@@ -2970,7 +2976,11 @@
           "role": ""
         },
         {
-          "name": "Stretton, Colin",
+          "name": "Barber, Jeremy",
+          "role": ""
+        },
+        {
+          "name": "Boehnke, Drake",
           "role": ""
         },
         {
@@ -2982,7 +2992,7 @@
     {
       "unit": "L1",
       "unit_type": "LADDER",
-      "status": "Out-of-Service",
+      "status": "Available",
       "home_station": "14",
       "district": "14",
       "prime_officer": "NONE",
@@ -3031,7 +3041,7 @@
       "location": "",
       "staff": [
         {
-          "name": "Vlasin, Jeffrey",
+          "name": "Martz, John",
           "role": "Officer"
         },
         {
@@ -3039,7 +3049,7 @@
           "role": "Engineer"
         },
         {
-          "name": "Wright, Zackary",
+          "name": "Welling, Tyler",
           "role": "Firefighter"
         },
         {
@@ -3062,7 +3072,11 @@
           "role": ""
         },
         {
-          "name": "Stretton, Colin",
+          "name": "Barber, Jeremy",
+          "role": ""
+        },
+        {
+          "name": "Boehnke, Drake",
           "role": ""
         },
         {
@@ -3229,18 +3243,18 @@
     {
       "unit": "R1",
       "unit_type": "RESCUE",
-      "status": "Available-Out-of-District",
+      "status": "Available",
       "home_station": "26",
-      "district": "18",
+      "district": "26",
       "prime_officer": "NONE",
       "location": "",
       "staff": [
         {
-          "name": "Newton, Jennifer",
+          "name": "Smigla, Richard",
           "role": "Officer"
         },
         {
-          "name": "Boehnke, Drake",
+          "name": "Newton, Jennifer",
           "role": "Engineer"
         }
       ]
@@ -3248,14 +3262,14 @@
     {
       "unit": "R11",
       "unit_type": "RESCUE",
-      "status": "Transport",
+      "status": "Available",
       "home_station": "11",
       "district": "11",
       "prime_officer": "NONE",
-      "location": "UF HEALTH SHANDS",
+      "location": "",
       "staff": [
         {
-          "name": "Whitener, Nicholas D.",
+          "name": "Bostick, Grant",
           "role": "Officer"
         },
         {
@@ -3267,18 +3281,18 @@
     {
       "unit": "R13",
       "unit_type": "RESCUE",
-      "status": "Available",
+      "status": "Dispatched",
       "home_station": "13",
       "district": "13",
       "prime_officer": "NONE",
-      "location": "",
+      "location": "2220 S COCOA AV",
       "staff": [
         {
-          "name": "Batton, Matthew",
+          "name": "Field, Kenneth",
           "role": "Officer"
         },
         {
-          "name": "Breeland, Matthew",
+          "name": "Dowell, Alec",
           "role": "Engineer"
         }
       ]
@@ -3286,11 +3300,11 @@
     {
       "unit": "R14",
       "unit_type": "RESCUE",
-      "status": "Available",
+      "status": "Arrived",
       "home_station": "14",
       "district": "14",
       "prime_officer": "NONE",
-      "location": "",
+      "location": "65 PANDA AV",
       "staff": [
         {
           "name": "Woodall, Austin",
@@ -3312,7 +3326,7 @@
       "location": "",
       "staff": [
         {
-          "name": "Gray, Brandon K.",
+          "name": "Hines, Sherry",
           "role": "Officer"
         },
         {
@@ -3331,7 +3345,7 @@
       "location": "",
       "staff": [
         {
-          "name": "Brown, Vincent",
+          "name": "Marino, Richard",
           "role": "Officer"
         },
         {
@@ -3350,11 +3364,11 @@
       "location": "",
       "staff": [
         {
-          "name": "Futch, Ryan",
+          "name": "Smith, Jonathan",
           "role": "Officer"
         },
         {
-          "name": "Sosa, Jesus",
+          "name": "Schminke, Hunter M.",
           "role": "Engineer"
         }
       ]
@@ -3362,11 +3376,11 @@
     {
       "unit": "R19",
       "unit_type": "RESCUE",
-      "status": "Available",
+      "status": "Dispatched",
       "home_station": "19R",
       "district": "19R",
       "prime_officer": "NONE",
-      "location": "",
+      "location": "1733 TOWN CENTER BLVD",
       "staff": [
         {
           "name": "RATTRAY, GRAHAM",
@@ -3388,7 +3402,7 @@
           "role": "Officer"
         },
         {
-          "name": "Byrne, Jonathon",
+          "name": "Orr, Kelly",
           "role": "Engineer"
         }
       ]
@@ -3396,11 +3410,11 @@
     {
       "unit": "R22",
       "unit_type": "RESCUE",
-      "status": "Available",
+      "status": "Transport",
       "home_station": "22",
       "district": "22",
       "prime_officer": "NONE",
-      "location": "",
+      "location": "WOLFSON CHILDRENS HOSPITAL",
       "staff": [
         {
           "name": "Champion, Adam B.",
@@ -3415,18 +3429,18 @@
     {
       "unit": "R22A",
       "unit_type": "RESCUE",
-      "status": "Available",
+      "status": "Hospital",
       "home_station": "19R",
       "district": "19R",
       "prime_officer": "NONE",
-      "location": "",
+      "location": "ORANGE PARK MEDICAL",
       "staff": [
         {
           "name": "Piotrowski, Steven",
           "role": "Officer"
         },
         {
-          "name": "Denneen, Benjamin",
+          "name": "Morales, Rolando",
           "role": "Engineer"
         }
       ]
@@ -3434,11 +3448,11 @@
     {
       "unit": "R23",
       "unit_type": "RESCUE",
-      "status": "Transport",
+      "status": "Available",
       "home_station": "23",
       "district": "23",
       "prime_officer": "NONE",
-      "location": "ST VINCENTS CLAY",
+      "location": "",
       "staff": [
         {
           "name": "White, James",
@@ -3464,7 +3478,7 @@
           "role": "Officer"
         },
         {
-          "name": "Wiemann, Robert",
+          "name": "Goodman, Joshua R.",
           "role": "Engineer"
         }
       ]
@@ -3472,11 +3486,11 @@
     {
       "unit": "R25",
       "unit_type": "RESCUE",
-      "status": "En-Route",
+      "status": "Available",
       "home_station": "25",
-      "district": "23",
+      "district": "25",
       "prime_officer": "NONE",
-      "location": "7725 TWIN LAKES RD",
+      "location": "",
       "staff": [
         {
           "name": "Rowe, Jeffrey",
@@ -3491,18 +3505,18 @@
     {
       "unit": "R26",
       "unit_type": "RESCUE",
-      "status": "Available",
+      "status": "Transport",
       "home_station": "26",
       "district": "26",
       "prime_officer": "NONE",
-      "location": "",
+      "location": "BAPTIST OAKLEAF",
       "staff": [
         {
-          "name": "Smigla, Richard",
+          "name": "Hayes, Brent T.",
           "role": "Officer"
         },
         {
-          "name": "Barber, Jeremy",
+          "name": "Williams, DeaPaul",
           "role": "Engineer"
         }
       ]
@@ -3690,11 +3704,11 @@
     {
       "unit": "RE201",
       "unit_type": "SPARE",
-      "status": "Vehicle-Swap",
+      "status": "Out-of-Service",
       "home_station": "20",
       "district": "20",
       "prime_officer": "NONE",
-      "location": "E1 USING",
+      "location": "",
       "staff": []
     },
     {
@@ -3750,11 +3764,11 @@
     {
       "unit": "SPBAT",
       "unit_type": "SPARE",
-      "status": "Vehicle-Swap",
+      "status": "Available",
       "home_station": "SPAR",
       "district": "SPAR",
       "prime_officer": "NONE",
-      "location": "BAT2 USING",
+      "location": "",
       "staff": []
     },
     {
@@ -3780,12 +3794,7 @@
       "district": "22",
       "prime_officer": "NONE",
       "location": "",
-      "staff": [
-        {
-          "name": "SMITH, JONATHAN M",
-          "role": ""
-        }
-      ]
+      "staff": []
     },
     {
       "unit": "AIR14",
@@ -3805,12 +3814,7 @@
       "district": "22",
       "prime_officer": "NONE",
       "location": "",
-      "staff": [
-        {
-          "name": "VIGUE, JAMES",
-          "role": ""
-        }
-      ]
+      "staff": []
     },
     {
       "unit": "HM221",
@@ -3900,12 +3904,7 @@
       "district": "MISC",
       "prime_officer": "NONE",
       "location": "",
-      "staff": [
-        {
-          "name": "VIGUE, JAMES",
-          "role": ""
-        }
-      ]
+      "staff": []
     },
     {
       "unit": "SWT901",
@@ -3915,12 +3914,7 @@
       "district": "MISC",
       "prime_officer": "NONE",
       "location": "",
-      "staff": [
-        {
-          "name": "WILKERSON, WILLIAM",
-          "role": ""
-        }
-      ]
+      "staff": []
     },
     {
       "unit": "SWT902",
@@ -3977,7 +3971,7 @@
       "location": "",
       "staff": [
         {
-          "name": "Keister, Damian",
+          "name": "McCormick, John",
           "role": "Engineer"
         }
       ]
@@ -3995,11 +3989,11 @@
     {
       "unit": "T149",
       "unit_type": "TENDER",
-      "status": "Available",
+      "status": "Dispatched",
       "home_station": "14",
       "district": "14",
       "prime_officer": "NONE",
-      "location": "",
+      "location": "2220 S COCOA AV",
       "staff": [
         {
           "name": "Ussery, Blake J.",
@@ -4101,7 +4095,8 @@
   "flat": [
     "SEGARS, JOSHUA",
     "CHANEY, ANN",
-    "Hanstein, Laura",
+    "VLASIN, JEFFORY",
+    "Vigue, James",
     "Kuykendall, David L.",
     "FUTCH, WILLIAM",
     "SMITH, REBECCA",
@@ -4114,7 +4109,7 @@
     "LEE, DUDLEY",
     "HERRERA, JAIRO",
     "OUTMAN, AARON",
-    "OD2A Hammock, Christopher W.",
+    "OD2A Kicklighter, Darren",
     "BOIKE, MICHAEL",
     "ROSEBERRY, ANTHONY",
     "LONG, JOHN H III",
@@ -4127,92 +4122,91 @@
     "THOMAS, BRIAN",
     "WHITE, RANDALL",
     "FUTCH, KAYLA",
-    "Hansen, Nicholas",
+    "CHRIST, AUSTIN RYAN",
+    "McMillan, Mark",
     "Smith, Troy G.",
     "Kolaric, Clayton R.",
     "Wilson, John",
-    "Morales, Rolando",
-    "Devin, Grace",
-    "Wester Jr, Thomas",
+    "Breeland, Matthew",
+    "Fry, Blake",
+    "Soles, Eric",
     "Cravey, Kyle",
     "Clayton, Kolben",
-    "Furris, Stefan",
-    "Hines, Sherry",
+    "Wilkerson, William",
     "Jennings, Jammie",
-    "Cannata, Robert",
+    "Del Rosso, Angelina",
     "Flewellyn, Matthew",
     "Reed, Nicholas Z.",
     "Ehly, Jonathon",
-    "Del Rosso, Angelina",
     "Anderson Jr., Shamarr",
     "Baumgardner, Benjamin",
-    "Jones, Preston",
+    "Sosa, Jesus",
     "Young, Christopher",
-    "Schminke, Hunter M.",
+    "TAYLOR, KEITH",
     "Crosby, Patrick",
-    "Barwick, Robert L.",
+    "Milligan, Morgan",
+    "Hendrix, Jacob",
     "Tyson, Mariel T.",
-    "Gowell, Justin K.",
-    "Grissett, Jacob C.",
+    "Brinley, Matthew S.",
+    "Gray, Brandon K.",
     "Sechrist, Alexander C.",
+    "Grissett, Jacob C.",
     "Lewis, Michael A.",
     "Rosero, Matthew",
-    "Ferri, Jeremy",
+    "Padgett, Madison",
     "Rooney, Patrick",
     "Carey, James",
     "DePriest, Skylar",
     "Fouraker, Thomas",
-    "Wisdom, Hunter",
+    "Fraley, Andrew",
     "Coleman, Justin",
     "Stokes Jr, Evan C.",
-    "Stretton, Colin",
+    "Barber, Jeremy",
+    "Boehnke, Drake",
     "Stigler, Anthony",
     "Hutchins, Joseph D.",
     "McMillan, Luke",
     "Stevens, Zachary",
     "Brown, Caden",
     "DEAN, JUSTIN",
-    "Vlasin, Jeffrey",
+    "Martz, John",
     "Wilkinson, Chris R.",
-    "Wright, Zackary",
+    "Welling, Tyler",
     "Riles, Joe",
     "MILLER, JACK",
+    "Smigla, Richard",
     "Newton, Jennifer",
-    "Boehnke, Drake",
-    "Whitener, Nicholas D.",
+    "Bostick, Grant",
     "Johnson, Colin",
-    "Batton, Matthew",
-    "Breeland, Matthew",
+    "Field, Kenneth",
+    "Dowell, Alec",
     "Woodall, Austin",
     "Schaible, Gregory",
-    "Gray, Brandon K.",
+    "Hines, Sherry",
     "Nelson, Gregory",
-    "Brown, Vincent",
+    "Marino, Richard",
     "Copeland, Michael",
-    "Futch, Ryan",
-    "Sosa, Jesus",
+    "Smith, Jonathan",
+    "Schminke, Hunter M.",
     "RATTRAY, GRAHAM",
     "Gill, Thomas",
-    "Byrne, Jonathon",
+    "Orr, Kelly",
     "Champion, Adam B.",
     "Jaudon, Ja'Quan",
     "Piotrowski, Steven",
-    "Denneen, Benjamin",
+    "Morales, Rolando",
     "White, James",
     "Alvaranga, Shiquanna",
     "Fisher, Michael",
-    "Wiemann, Robert",
+    "Goodman, Joshua R.",
     "Rowe, Jeffrey",
     "Fallon, Roy J.",
-    "Smigla, Richard",
-    "Barber, Jeremy",
-    "SMITH, JONATHAN M",
-    "VIGUE, JAMES",
+    "Hayes, Brent T.",
+    "Williams, DeaPaul",
     "GIBBS, STEVEN",
     "SWEAT, ANTHONY",
-    "WILKERSON, WILLIAM",
     "WEBBER, JUSTIN C",
-    "Keister, Damian",
+    "McCormick, John",
     "Ussery, Blake J.",
     "Conomea, James J.",
     "GRAUDONS, CLINT",
@@ -4388,7 +4382,9 @@
     "TJAX1": [],
     "TOW1": [],
     "TOW2": [],
-    "TR606": [],
+    "TR606": [
+      "VLASIN, JEFFORY"
+    ],
     "VBRB27": [],
     "VBRB56": [],
     "VBRB76": [],
@@ -4424,7 +4420,7 @@
     "ENF573": [],
     "ENF9298": [],
     "BAT1": [
-      "Hanstein, Laura"
+      "Vigue, James"
     ],
     "BAT2": [
       "Kuykendall, David L."
@@ -4469,7 +4465,7 @@
       "OUTMAN, AARON"
     ],
     "CR3": [
-      "OD2A Hammock, Christopher W."
+      "OD2A Kicklighter, Darren"
     ],
     "CR4": [],
     "CR5": [],
@@ -4534,58 +4530,59 @@
     "EM4": [
       "FUTCH, KAYLA"
     ],
-    "E1": [],
+    "E1": [
+      "CHRIST, AUSTIN RYAN"
+    ],
     "E11": [
-      "Hansen, Nicholas",
+      "McMillan, Mark",
       "Smith, Troy G.",
       "Kolaric, Clayton R."
     ],
     "E13": [
       "Wilson, John",
-      "Morales, Rolando",
-      "Devin, Grace"
+      "Breeland, Matthew",
+      "Fry, Blake"
     ],
     "E14": [
-      "Wester Jr, Thomas",
+      "Soles, Eric",
       "Cravey, Kyle",
-      "Clayton, Kolben",
-      "Furris, Stefan"
+      "Clayton, Kolben"
     ],
     "E15": [
-      "Hines, Sherry",
+      "Wilkerson, William",
       "Jennings, Jammie",
-      "Cannata, Robert",
+      "Del Rosso, Angelina",
       "Flewellyn, Matthew"
     ],
     "E17": [
       "Reed, Nicholas Z.",
       "Ehly, Jonathon",
-      "Del Rosso, Angelina",
       "Anderson Jr., Shamarr"
     ],
     "E18": [
       "Baumgardner, Benjamin",
-      "Jones, Preston",
-      "Young, Christopher",
-      "Schminke, Hunter M."
+      "Sosa, Jesus",
+      "Young, Christopher"
     ],
     "E19": [
-      "CONTESTABILE, JOHN"
+      "TAYLOR, KEITH"
     ],
     "E20": [
       "Crosby, Patrick",
-      "Barwick, Robert L.",
+      "Milligan, Morgan",
+      "Hendrix, Jacob",
       "Tyson, Mariel T."
     ],
     "E22": [
-      "Gowell, Justin K.",
-      "Grissett, Jacob C.",
-      "Sechrist, Alexander C."
+      "Brinley, Matthew S.",
+      "Gray, Brandon K.",
+      "Sechrist, Alexander C.",
+      "Grissett, Jacob C."
     ],
     "E23": [
       "Lewis, Michael A.",
       "Rosero, Matthew",
-      "Ferri, Jeremy"
+      "Padgett, Madison"
     ],
     "E24": [
       "Rooney, Patrick",
@@ -4594,12 +4591,13 @@
     ],
     "E25": [
       "Fouraker, Thomas",
-      "Wisdom, Hunter",
+      "Fraley, Andrew",
       "Coleman, Justin"
     ],
     "E26": [
       "Stokes Jr, Evan C.",
-      "Stretton, Colin",
+      "Barber, Jeremy",
+      "Boehnke, Drake",
       "Stigler, Anthony"
     ],
     "L1": [
@@ -4612,14 +4610,15 @@
       "DEAN, JUSTIN"
     ],
     "L20": [
-      "Vlasin, Jeffrey",
+      "Martz, John",
       "Wilkinson, Chris R.",
-      "Wright, Zackary",
+      "Welling, Tyler",
       "Riles, Joe"
     ],
     "L26": [
       "Stokes Jr, Evan C.",
-      "Stretton, Colin",
+      "Barber, Jeremy",
+      "Boehnke, Drake",
       "Stigler, Anthony"
     ],
     "LOG801": [],
@@ -4640,39 +4639,39 @@
     "UT15": [],
     "UT2": [],
     "R1": [
-      "Newton, Jennifer",
-      "Boehnke, Drake"
+      "Smigla, Richard",
+      "Newton, Jennifer"
     ],
     "R11": [
-      "Whitener, Nicholas D.",
+      "Bostick, Grant",
       "Johnson, Colin"
     ],
     "R13": [
-      "Batton, Matthew",
-      "Breeland, Matthew"
+      "Field, Kenneth",
+      "Dowell, Alec"
     ],
     "R14": [
       "Woodall, Austin",
       "Schaible, Gregory"
     ],
     "R15": [
-      "Gray, Brandon K.",
+      "Hines, Sherry",
       "Nelson, Gregory"
     ],
     "R17": [
-      "Brown, Vincent",
+      "Marino, Richard",
       "Copeland, Michael"
     ],
     "R18": [
-      "Futch, Ryan",
-      "Sosa, Jesus"
+      "Smith, Jonathan",
+      "Schminke, Hunter M."
     ],
     "R19": [
       "RATTRAY, GRAHAM"
     ],
     "R20": [
       "Gill, Thomas",
-      "Byrne, Jonathon"
+      "Orr, Kelly"
     ],
     "R22": [
       "Champion, Adam B.",
@@ -4680,7 +4679,7 @@
     ],
     "R22A": [
       "Piotrowski, Steven",
-      "Denneen, Benjamin"
+      "Morales, Rolando"
     ],
     "R23": [
       "White, James",
@@ -4688,15 +4687,15 @@
     ],
     "R24": [
       "Fisher, Michael",
-      "Wiemann, Robert"
+      "Goodman, Joshua R."
     ],
     "R25": [
       "Rowe, Jeffrey",
       "Fallon, Roy J."
     ],
     "R26": [
-      "Smigla, Richard",
-      "Barber, Jeremy"
+      "Hayes, Brent T.",
+      "Williams, DeaPaul"
     ],
     "E192": [],
     "E61": [],
@@ -4726,13 +4725,9 @@
     "ADMIN": [
       "MOTES, DAVID"
     ],
-    "AIR1": [
-      "SMITH, JONATHAN M"
-    ],
+    "AIR1": [],
     "AIR14": [],
-    "HM22": [
-      "VIGUE, JAMES"
-    ],
+    "HM22": [],
     "HM221": [],
     "HR15": [],
     "MERV1": [
@@ -4744,12 +4739,8 @@
     "MRN1": [],
     "MRN15": [],
     "RE6": [],
-    "SWAT9": [
-      "VIGUE, JAMES"
-    ],
-    "SWT901": [
-      "WILKERSON, WILLIAM"
-    ],
+    "SWAT9": [],
+    "SWT901": [],
     "SWT902": [
       "WEBBER, JUSTIN C"
     ],
@@ -4757,7 +4748,7 @@
     "UT19": [],
     "UT6": [],
     "T119": [
-      "Keister, Damian"
+      "McCormick, John"
     ],
     "T138": [],
     "T149": [

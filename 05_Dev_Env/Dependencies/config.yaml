@@ -1,0 +1,8 @@
+# Default roster for auto mode
+default_units:
+  - R1
+  - R26
+  - L26
+
+# Path to roster file
+roster_path: /home/training-bot/projects/vector-solutions/02_Scripts/Rosters/roster.json
